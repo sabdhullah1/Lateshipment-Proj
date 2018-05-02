@@ -21,4 +21,4 @@ Given a list of people in MySQL with their birth and end years write a program t
   * Module-2: Visualization framework using Python dash. This framework provides graphs for number of births, number of deaths in a year and also the population across different dates based on the settings provided in the dropdown. There is also a subgraph which provides more details on the hovered point for detailed analysis. Please find the demo below.
 
 #### Demo
-[link text](https://www.youtube.com/watch?v=4WwjekbILZI&feature=youtu.be)
+[Click here for demo](https://www.youtube.com/watch?v=4WwjekbILZI&feature=youtu.be)
